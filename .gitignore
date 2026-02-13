@@ -1,0 +1,6 @@
+node_modules/
+daemon-arena.db
+.env
+*.log
+challenges.js
+sandbox.js
